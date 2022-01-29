@@ -1,5 +1,5 @@
 # Python3
-![IMAGE](https://github.com/fescii/Python3/blob/master/TEAU%20DATA.png?raw=true)
+![IMAGE](https://github.com/aduki-Inc/Python3/blob/main/TEAU%20DATA.png?raw=true)
 
 
 Gain the career-building Python skills you need to succeed as a data scientist.<br />
